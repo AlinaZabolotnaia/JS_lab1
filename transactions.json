@@ -1,0 +1,20 @@
+[
+    {
+        "transaction_id": "1",
+        "transaction_date": "2024-05-01",
+        "transaction_amount": "101.11",
+        "transaction_type": "debit",
+        "transaction_description": "Food for cats",
+        "merchant_name": "SuperJhon",
+        "card_type": "Visa"
+    },
+    {
+        "transaction_id": "2",
+        "transaction_date": "2024-05-10",
+        "transaction_amount": "1054.90",
+        "transaction_type": "credit",
+        "transaction_description": "Dinner in the restaurant",
+        "merchant_name": "OtherJhon",
+        "card_type": "MasterCard"
+    }
+]
